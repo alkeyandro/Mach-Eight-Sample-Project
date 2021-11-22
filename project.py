@@ -47,7 +47,7 @@ def main(url):
 		select = int(input('''
 			Choose an option:
 
-			[1] Do match
+			[1] Search
 			[2] Exit
 		'''))
 
@@ -63,7 +63,7 @@ def main(url):
 		select = int(input('''
 			Choose an option:
 
-			[1] Search 
+			[1] Retry
 			[2] Exit
 		'''))
 
