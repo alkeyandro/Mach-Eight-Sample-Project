@@ -9,5 +9,6 @@ height added are equal to the number given.
 For the execution is required to install some python libraries as csv, requests, logging, io, datetime, time, os.
 
 ## Views:
+![Captura de tela em 2021-11-22 17-25-10](https://user-images.githubusercontent.com/49928174/142944253-ab9b4fd2-a371-4bc7-80c6-59ffae016ce3.png)
 ![Captura de tela em 2021-11-22 17-11-17](https://user-images.githubusercontent.com/49928174/142943570-cac64dfc-0e25-4d3f-87b9-2abdfccb813d.png)
 ![Captura de tela em 2021-11-22 17-12-25](https://user-images.githubusercontent.com/49928174/142943574-137ead4f-fff2-4eaa-b9fb-9ae2f08d963c.png)
